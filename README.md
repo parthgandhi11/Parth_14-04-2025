@@ -16,3 +16,6 @@ This file can also be downloaded when url ```get_report/{report_id}/download``` 
 
 ## Sample output CSV
 https://drive.google.com/file/d/1PwWbFZFNnIlE1cvg_6qkoJ2QSjDkwjLr/view?usp=sharing
+
+## Screen recording of demo
+https://drive.google.com/file/d/1SMQKV4po6qk_XJjatsK0FD60G7YB4EOy/view?usp=sharing
