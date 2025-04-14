@@ -15,7 +15,7 @@ This file can also be downloaded when url ```get_report/{report_id}/download``` 
 3. Add an expiration date tag with each report to avoid unnecessary CSVs from piling up.
 
 ## Sample output CSV
-https://drive.google.com/file/d/1PwWbFZFNnIlE1cvg_6qkoJ2QSjDkwjLr/view?usp=sharing
+https://drive.google.com/file/d/1IrQse0ULYScjVRC82moDRQJ8svgwdWU6/view?usp=sharing
 
 ## Screen recording of demo
 https://drive.google.com/file/d/1SMQKV4po6qk_XJjatsK0FD60G7YB4EOy/view?usp=sharing
